@@ -1,0 +1,10 @@
+Package: MontyHall
+Type: Package
+Title: Simulations of Let's Make a Deal Game
+Version: 1.0
+Date: 2014-08-22
+Author: Stephen Downing
+Maintainer: Stephen Downing <sdowning.bm02g@nctu.edu.tw>
+Description: Run simulations of the Let's Make a Deal Game choosing strategy
+    and number of doors from which to pick.
+License: MIT
