@@ -13,7 +13,7 @@ This is an R package to simulate the Let's Make a Deal! game for computing long-
 
       > install_github(repo = 'MontyHall', username = 'sdownin')
 
-**3. Check out help document if needed**
+**3. Check out the help document if needed**
 
       > ?MontyHallStrat
 
