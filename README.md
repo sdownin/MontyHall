@@ -1,7 +1,7 @@
 Monty Hall Problem Simulation
 =======
 
-This is an R package to simulations of the Let's Make a Deal! game for computing long-run averages of success probabilities by strategy for the Monty Hall Problem. 
+This is an R package to simulate the Let's Make a Deal! game for computing long-run averages of success probabilities by strategy for the Monty Hall Problem. 
 
 ###Installation instructions
 **1. Install `devtools` and attach the library in R**
